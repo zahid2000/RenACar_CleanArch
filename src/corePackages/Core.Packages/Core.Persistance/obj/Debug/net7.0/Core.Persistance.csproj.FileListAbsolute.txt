@@ -1,0 +1,11 @@
+C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\corePackages\Core.Packages\Core.Persistance\bin\Debug\net7.0\Core.Persistance.deps.json
+C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\corePackages\Core.Packages\Core.Persistance\bin\Debug\net7.0\Core.Persistance.dll
+C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\corePackages\Core.Packages\Core.Persistance\bin\Debug\net7.0\Core.Persistance.pdb
+C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\Core.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\Core.Persistance.AssemblyInfoInputs.cache
+C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\Core.Persistance.AssemblyInfo.cs
+C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\Core.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\Core.Persistance.dll
+C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\refint\Core.Persistance.dll
+C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\Core.Persistance.pdb
+C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\ref\Core.Persistance.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0vJFpamBbNN4D0GqPD3CMmTXSE0xDLHvuK8NAR8vSMViwJEIL9BSDVmk36U8WBES3OchO7BtUK/a9eqvARoGRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\nArchitecture\\RentACarProjectDemo\\src\\rentACar\\RentACar\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zahid.m\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\zahid.m\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\zahid.m\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
