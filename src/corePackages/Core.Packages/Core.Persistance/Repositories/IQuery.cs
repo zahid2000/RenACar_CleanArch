@@ -1,6 +1,6 @@
 ﻿using System.Linq;
 
-namespace Core.Persistance.Repositories;
+namespace Core.Persistence.Repositories;
 
 public interface IQuery<T>
 {

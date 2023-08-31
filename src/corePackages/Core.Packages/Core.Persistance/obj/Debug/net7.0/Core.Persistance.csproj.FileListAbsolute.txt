@@ -9,3 +9,4 @@ C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProject
 C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\refint\Core.Persistance.dll
 C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\Core.Persistance.pdb
 C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\ref\Core.Persistance.dll
+C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\Core.Persistance.csproj.AssemblyReference.cache

@@ -6996,9 +6996,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\nArchitecture\\RentACarProjectDemo\\src\\corePackages\\Core.Packages\\Core.Persistance\\Core.Persistance.csproj",
-      "projectName": "Core.Persistance",
-      "projectPath": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\nArchitecture\\RentACarProjectDemo\\src\\corePackages\\Core.Packages\\Core.Persistance\\Core.Persistance.csproj",
+      "projectUniqueName": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\nArchitecture\\RentACarProjectDemo\\src\\corePackages\\Core.Packages\\Core.Persistance\\Core.Persistence.csproj",
+      "projectName": "Core.Persistence",
+      "projectPath": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\nArchitecture\\RentACarProjectDemo\\src\\corePackages\\Core.Packages\\Core.Persistance\\Core.Persistence.csproj",
       "packagesPath": "C:\\Users\\zahid.m\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\nArchitecture\\RentACarProjectDemo\\src\\corePackages\\Core.Packages\\Core.Persistance\\obj\\",
       "projectStyle": "PackageReference",

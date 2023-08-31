@@ -1,4 +1,4 @@
-﻿namespace Core.Persistance.Paging;
+﻿namespace Core.Persistence.Paging;
 
 public class Paginate<T>
 {

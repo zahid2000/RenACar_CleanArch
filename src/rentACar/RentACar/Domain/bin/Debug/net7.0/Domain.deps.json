@@ -8,15 +8,15 @@
     ".NETCoreApp,Version=v7.0": {
       "Domain/1.0.0": {
         "dependencies": {
-          "Core.Persistance": "1.0.0.0"
+          "Core.Persistence": "1.0.0.0"
         },
         "runtime": {
           "Domain.dll": {}
         }
       },
-      "Core.Persistance/1.0.0.0": {
+      "Core.Persistence/1.0.0.0": {
         "runtime": {
-          "Core.Persistance.dll": {
+          "Core.Persistence.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -30,7 +30,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Core.Persistance/1.0.0.0": {
+    "Core.Persistence/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

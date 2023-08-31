@@ -1,0 +1,12 @@
+C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\corePackages\Core.Packages\Core.Persistance\bin\Debug\net7.0\Core.Persistence.deps.json
+C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\corePackages\Core.Packages\Core.Persistance\bin\Debug\net7.0\Core.Persistence.dll
+C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\corePackages\Core.Packages\Core.Persistance\bin\Debug\net7.0\Core.Persistence.pdb
+C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\Core.Persistence.csproj.AssemblyReference.cache
+C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\Core.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\Core.Persistence.AssemblyInfoInputs.cache
+C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\Core.Persistence.AssemblyInfo.cs
+C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\Core.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\Core.Persistence.dll
+C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\refint\Core.Persistence.dll
+C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\Core.Persistence.pdb
+C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\ref\Core.Persistence.dll
