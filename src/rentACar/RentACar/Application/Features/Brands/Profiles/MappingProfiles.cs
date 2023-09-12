@@ -24,6 +24,7 @@ public class MappingProfiles:Profile
         CreateMap<Brand, DeletedBrandResponse>().ReverseMap();
 
         CreateMap<Brand,GetByIdBrandResponse>().ReverseMap();
+
         CreateMap<Brand,GetListBrandListItemDto>().ReverseMap();
         CreateMap<Paginate<Brand>,GetListResponse<GetListBrandListItemDto>>().ReverseMap();
     }
