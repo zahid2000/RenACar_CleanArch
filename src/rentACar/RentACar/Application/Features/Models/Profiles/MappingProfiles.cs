@@ -1,5 +1,4 @@
-﻿using Application.Features.Brands.Dtos;
-using Application.Features.Models.Dtos;
+﻿using Application.Features.Models.Dtos;
 using AutoMapper;
 using Core.Application.Responses;
 using Core.Persistence.Paging;
@@ -13,6 +12,9 @@ public class MappingProfiles:Profile
     {
         CreateMap<Model, GetListModelListItemDto>().ReverseMap();
         CreateMap<Paginate<Model>, GetListResponse<GetListModelListItemDto>>().ReverseMap();
+
+        CreateMap<Model, GetListByDynamicModelListItemDto>().ReverseMap();
+        CreateMap<Paginate<Model>, GetListResponse<GetListByDynamicModelListItemDto>>().ReverseMap();
     }
    
 }
