@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "xASjkVkjb5Jc2DF6qnaght/HjoDIpPwjsC4YJxaZQJlkmJ1K/32+XLJDjLZr1dmtp0sCuuPhhfl4PBwWBqc+jg==",
+  "dgSpecHash": "ka7aFWf/lNGM/BFAh23b0teWHt3caRlvVNldq5hNpQV9W73byRJP4agQSVbPP/Q6Hou0ZHkUqhT+3sVf/QYcCw==",
   "success": true,
   "projectFilePath": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\nArchitecture\\RentACarProjectDemo\\src\\rentACar\\RentACar\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zahid.m\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\zahid.m\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\zahid.m\\.nuget\\packages\\fluentvalidation\\11.8.1\\fluentvalidation.11.8.1.nupkg.sha512",
+    "C:\\Users\\zahid.m\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.8.1\\fluentvalidation.dependencyinjectionextensions.11.8.1.nupkg.sha512",
     "C:\\Users\\zahid.m\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
     "C:\\Users\\zahid.m\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\zahid.m\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hHuJhE1VHTxWKd5dfFWlVp+nlfPqcuSTyTeQb6xX8/nAtoFY3zP0GzfLzmoV8ksy03tmiP+ewBshxx/lihjm3A==",
+  "dgSpecHash": "AFTDdO0F/gjgosDRDK1Jm/IXN9sNerzYNF7z6vpT6i7vtVeRN05bG/odDrdcuxOIIAxn3M8FrmS0MPvzuD+DkQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\nArchitecture\\RentACarProjectDemo\\src\\rentACar\\RentACar\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,8 @@
     "C:\\Users\\zahid.m\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\zahid.m\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\zahid.m\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\zahid.m\\.nuget\\packages\\fluentvalidation\\11.8.1\\fluentvalidation.11.8.1.nupkg.sha512",
+    "C:\\Users\\zahid.m\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.8.1\\fluentvalidation.dependencyinjectionextensions.11.8.1.nupkg.sha512",
     "C:\\Users\\zahid.m\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\zahid.m\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
     "C:\\Users\\zahid.m\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

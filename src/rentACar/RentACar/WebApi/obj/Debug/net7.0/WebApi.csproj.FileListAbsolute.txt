@@ -92,3 +92,6 @@ C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProject
 C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll
 C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\Core.CrossCuttingConcerns.dll
 C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\Core.CrossCuttingConcerns.pdb
+C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\rentACar\RentACar\WebApi\obj\Debug\net7.0\WebApi.sourcelink.json
+C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll

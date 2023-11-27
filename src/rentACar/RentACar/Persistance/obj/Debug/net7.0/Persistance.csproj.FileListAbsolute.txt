@@ -21,3 +21,4 @@ C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProject
 C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\rentACar\RentACar\Persistance\bin\Debug\net7.0\Core.Application.pdb
 C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\rentACar\RentACar\Persistance\bin\Debug\net7.0\Core.CrossCuttingConcerns.dll
 C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\rentACar\RentACar\Persistance\bin\Debug\net7.0\Core.CrossCuttingConcerns.pdb
+C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\rentACar\RentACar\Persistance\obj\Debug\net7.0\Persistance.sourcelink.json
