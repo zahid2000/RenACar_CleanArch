@@ -1,15 +1,22 @@
 ﻿using Application.Features.Brands.Rules;
 using Application.Services.Repositories;
 using AutoMapper;
+using Core.Application.Pipelines.Caching;
 using Core.Application.Pipelines.Transactions;
 using Domain.Entities;
 using MediatR;
 
 namespace Application.Features.Brands.Commands.Create;
 
-public class CreateBrandCommand:IRequest<CreatedBrandResponse>, ITransactionalRequest
+public class CreateBrandCommand : IRequest<CreatedBrandResponse>, ITransactionalRequest, ICacheRemoverRequest
 {
     public string Name { get; set; }
+
+    public string? CacheKey { get; }
+
+    public bool BypassCache { get; }
+
+    public string? CacheGroupKey => "GetBrands";
     public class CreateBrandCommandHandler : IRequestHandler<CreateBrandCommand, CreatedBrandResponse>
     {
         private readonly IBrandRepository _brandRepository;
@@ -23,11 +30,12 @@ public class CreateBrandCommand:IRequest<CreatedBrandResponse>, ITransactionalRe
             _brandBusinessRules = brandBusinessRules;
         }
 
+     
+
         public async Task<CreatedBrandResponse> Handle(CreateBrandCommand request, CancellationToken cancellationToken)
         {
             await _brandBusinessRules.BrandNameCannotBeDuplicatedWhenInserted(request.Name);
             Brand brand = _mapper.Map<Brand>(request);
-            await _brandRepository.AddAsync(brand);
             await _brandRepository.AddAsync(brand);
 
             CreatedBrandResponse response = _mapper.Map<CreatedBrandResponse>(brand);

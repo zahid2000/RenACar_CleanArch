@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q5gg4NoFzLaw0gy5/cwzQwqyL6frU1/5UeQ5hvIVc8fjPQ/CDbmGGl0+Eu2zdzWl36Nik7P18FXEh8aFAfAdCQ==",
+  "dgSpecHash": "fvopwzdJXDbEfZlwoJYsl3yXIp3wV56JaZa5ucni+COoRbeyrMbDjN70Fsb9Ok+8qyQkUOy4VfjWBwO/ezI7Hw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\nArchitecture\\RentACarProjectDemo\\src\\rentACar\\RentACar\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\EFSO\\Desktop\\Zahid\\Apps\\RenACar_CleanArch\\src\\rentACar\\RentACar\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

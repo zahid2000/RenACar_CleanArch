@@ -1,14 +1,22 @@
 ﻿using Application.Services.Repositories;
 using AutoMapper;
+using Core.Application.Pipelines.Caching;
+using Core.Application.Pipelines.Transactions;
 using Domain.Entities;
 using MediatR;
 
 namespace Application.Features.Brands.Commands.Update;
 
-public class UpdateBrandCommand:IRequest<UpdatedBrandResponse>
+public class UpdateBrandCommand:IRequest<UpdatedBrandResponse>, ITransactionalRequest, ICacheRemoverRequest
 {
     public Guid Id { get; set; }
     public string Name { get; set; }
+
+    public string? CacheKey { get; }
+
+    public bool BypassCache { get; }
+
+    public string? CacheGroupKey => "GetBrands";
     public class UpdateBrandCommandHandler : IRequestHandler<UpdateBrandCommand, UpdatedBrandResponse>
     {
         private readonly IBrandRepository _brandRepository;
@@ -19,7 +27,7 @@ public class UpdateBrandCommand:IRequest<UpdatedBrandResponse>
             _brandRepository = brandRepository;
             _mapper = mapper;
         }
-
+       
         public async Task<UpdatedBrandResponse> Handle(UpdateBrandCommand request, CancellationToken cancellationToken)
         {
             Brand? brand = await _brandRepository.GetAsync(predicate: b => b.Id == request.Id, cancellationToken: cancellationToken);

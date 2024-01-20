@@ -9,3 +9,15 @@ C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProject
 C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
 C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
 C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\EFSO\Desktop\Zahid\Apps\RenACar_CleanArch\src\rentACar\RentACar\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\EFSO\Desktop\Zahid\Apps\RenACar_CleanArch\src\rentACar\RentACar\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\EFSO\Desktop\Zahid\Apps\RenACar_CleanArch\src\rentACar\RentACar\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\EFSO\Desktop\Zahid\Apps\RenACar_CleanArch\src\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\EFSO\Desktop\Zahid\Apps\RenACar_CleanArch\src\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EFSO\Desktop\Zahid\Apps\RenACar_CleanArch\src\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\EFSO\Desktop\Zahid\Apps\RenACar_CleanArch\src\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\EFSO\Desktop\Zahid\Apps\RenACar_CleanArch\src\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\EFSO\Desktop\Zahid\Apps\RenACar_CleanArch\src\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\EFSO\Desktop\Zahid\Apps\RenACar_CleanArch\src\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\EFSO\Desktop\Zahid\Apps\RenACar_CleanArch\src\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\EFSO\Desktop\Zahid\Apps\RenACar_CleanArch\src\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll

@@ -11,3 +11,15 @@ C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProject
 C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\ref\Core.CrossCuttingConcerns.dll
 C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\Core.CrossCuttingConcerns.csproj.AssemblyReference.cache
 C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\Core.CrossCuttingConcerns.sourcelink.json
+C:\Users\EFSO\Desktop\Zahid\Apps\RenACar_CleanArch\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\bin\Debug\net7.0\Core.CrossCuttingConcerns.deps.json
+C:\Users\EFSO\Desktop\Zahid\Apps\RenACar_CleanArch\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\bin\Debug\net7.0\Core.CrossCuttingConcerns.dll
+C:\Users\EFSO\Desktop\Zahid\Apps\RenACar_CleanArch\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\bin\Debug\net7.0\Core.CrossCuttingConcerns.pdb
+C:\Users\EFSO\Desktop\Zahid\Apps\RenACar_CleanArch\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\Core.CrossCuttingConcerns.csproj.AssemblyReference.cache
+C:\Users\EFSO\Desktop\Zahid\Apps\RenACar_CleanArch\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\Core.CrossCuttingConcerns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EFSO\Desktop\Zahid\Apps\RenACar_CleanArch\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\Core.CrossCuttingConcerns.AssemblyInfoInputs.cache
+C:\Users\EFSO\Desktop\Zahid\Apps\RenACar_CleanArch\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\Core.CrossCuttingConcerns.AssemblyInfo.cs
+C:\Users\EFSO\Desktop\Zahid\Apps\RenACar_CleanArch\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\Core.CrossCuttingConcerns.csproj.CoreCompileInputs.cache
+C:\Users\EFSO\Desktop\Zahid\Apps\RenACar_CleanArch\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\Core.CrossCuttingConcerns.dll
+C:\Users\EFSO\Desktop\Zahid\Apps\RenACar_CleanArch\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\refint\Core.CrossCuttingConcerns.dll
+C:\Users\EFSO\Desktop\Zahid\Apps\RenACar_CleanArch\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\Core.CrossCuttingConcerns.pdb
+C:\Users\EFSO\Desktop\Zahid\Apps\RenACar_CleanArch\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\ref\Core.CrossCuttingConcerns.dll

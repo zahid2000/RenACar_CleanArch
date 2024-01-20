@@ -8,6 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Core.Persistence
-build_property.ProjectDir = C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\corePackages\Core.Packages\Core.Persistance\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = C:\Users\EFSO\Desktop\Zahid\Apps\RenACar_CleanArch\src\corePackages\Core.Packages\Core.Persistance\

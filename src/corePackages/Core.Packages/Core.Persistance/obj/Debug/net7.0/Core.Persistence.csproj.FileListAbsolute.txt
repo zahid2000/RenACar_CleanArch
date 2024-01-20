@@ -11,3 +11,15 @@ C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProject
 C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\Core.Persistence.pdb
 C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\ref\Core.Persistence.dll
 C:\Users\zahid.m\Desktop\Lesson_Project\AspNetCore\nArchitecture\RentACarProjectDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\Core.Persistence.sourcelink.json
+C:\Users\EFSO\Desktop\Zahid\Apps\RenACar_CleanArch\src\corePackages\Core.Packages\Core.Persistance\bin\Debug\net7.0\Core.Persistence.deps.json
+C:\Users\EFSO\Desktop\Zahid\Apps\RenACar_CleanArch\src\corePackages\Core.Packages\Core.Persistance\bin\Debug\net7.0\Core.Persistence.dll
+C:\Users\EFSO\Desktop\Zahid\Apps\RenACar_CleanArch\src\corePackages\Core.Packages\Core.Persistance\bin\Debug\net7.0\Core.Persistence.pdb
+C:\Users\EFSO\Desktop\Zahid\Apps\RenACar_CleanArch\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\Core.Persistence.csproj.AssemblyReference.cache
+C:\Users\EFSO\Desktop\Zahid\Apps\RenACar_CleanArch\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\Core.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EFSO\Desktop\Zahid\Apps\RenACar_CleanArch\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\Core.Persistence.AssemblyInfoInputs.cache
+C:\Users\EFSO\Desktop\Zahid\Apps\RenACar_CleanArch\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\Core.Persistence.AssemblyInfo.cs
+C:\Users\EFSO\Desktop\Zahid\Apps\RenACar_CleanArch\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\Core.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\EFSO\Desktop\Zahid\Apps\RenACar_CleanArch\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\Core.Persistence.dll
+C:\Users\EFSO\Desktop\Zahid\Apps\RenACar_CleanArch\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\refint\Core.Persistence.dll
+C:\Users\EFSO\Desktop\Zahid\Apps\RenACar_CleanArch\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\Core.Persistence.pdb
+C:\Users\EFSO\Desktop\Zahid\Apps\RenACar_CleanArch\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\ref\Core.Persistence.dll

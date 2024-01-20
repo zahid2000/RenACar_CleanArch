@@ -567,20 +567,42 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Configuration.Abstractions/2.2.0": {
+      "Microsoft.Extensions.Configuration.Abstractions/7.0.0": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.Primitives": "2.2.0"
+          "Microsoft.Extensions.Primitives": "7.0.0"
         },
         "compile": {
-          "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll": {
+          "lib/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll": {
+          "lib/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll": {
             "related": ".xml"
           }
+        },
+        "build": {
+          "buildTransitive/net6.0/_._": {}
+        }
+      },
+      "Microsoft.Extensions.Configuration.Binder/7.0.4": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "7.0.0"
+        },
+        "compile": {
+          "lib/net7.0/Microsoft.Extensions.Configuration.Binder.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0/Microsoft.Extensions.Configuration.Binder.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net6.0/_._": {}
         }
       },
       "Microsoft.Extensions.DependencyInjection/7.0.0": {
@@ -3237,17 +3259,58 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.Extensions.Configuration.Abstractions/2.2.0": {
-      "sha512": "65MrmXCziWaQFrI0UHkQbesrX5wTwf9XPjY5yFm/VkgJKFJ5gqvXRoXjIZcf2wLi5ZlwGz/oMYfyURVCWbM5iw==",
+    "Microsoft.Extensions.Configuration.Abstractions/7.0.0": {
+      "sha512": "f34u2eaqIjNO9YLHBz8rozVZ+TcFiFs0F3r7nUJd7FRkVSxk8u4OpoK226mi49MwexHOR2ibP9MFvRUaLilcQQ==",
       "type": "package",
-      "path": "microsoft.extensions.configuration.abstractions/2.2.0",
+      "path": "microsoft.extensions.configuration.abstractions/7.0.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/net461/Microsoft.Extensions.Configuration.Abstractions.targets",
+        "buildTransitive/net462/_._",
+        "buildTransitive/net6.0/_._",
+        "buildTransitive/netcoreapp2.0/Microsoft.Extensions.Configuration.Abstractions.targets",
+        "lib/net462/Microsoft.Extensions.Configuration.Abstractions.dll",
+        "lib/net462/Microsoft.Extensions.Configuration.Abstractions.xml",
+        "lib/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll",
+        "lib/net6.0/Microsoft.Extensions.Configuration.Abstractions.xml",
+        "lib/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll",
+        "lib/net7.0/Microsoft.Extensions.Configuration.Abstractions.xml",
         "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.xml",
-        "microsoft.extensions.configuration.abstractions.2.2.0.nupkg.sha512",
-        "microsoft.extensions.configuration.abstractions.nuspec"
+        "microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+        "microsoft.extensions.configuration.abstractions.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "Microsoft.Extensions.Configuration.Binder/7.0.4": {
+      "sha512": "8+XPvJnHZsYgHOQlcMuQe7QNF5KdVKHH1F/wW3nd8/u81Gk/XFAYMDP0Lpz18h7/AM95M662vvqMorcYxCBB4w==",
+      "type": "package",
+      "path": "microsoft.extensions.configuration.binder/7.0.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/net461/Microsoft.Extensions.Configuration.Binder.targets",
+        "buildTransitive/net462/_._",
+        "buildTransitive/net6.0/_._",
+        "buildTransitive/netcoreapp2.0/Microsoft.Extensions.Configuration.Binder.targets",
+        "lib/net462/Microsoft.Extensions.Configuration.Binder.dll",
+        "lib/net462/Microsoft.Extensions.Configuration.Binder.xml",
+        "lib/net6.0/Microsoft.Extensions.Configuration.Binder.dll",
+        "lib/net6.0/Microsoft.Extensions.Configuration.Binder.xml",
+        "lib/net7.0/Microsoft.Extensions.Configuration.Binder.dll",
+        "lib/net7.0/Microsoft.Extensions.Configuration.Binder.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Configuration.Binder.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Configuration.Binder.xml",
+        "microsoft.extensions.configuration.binder.7.0.4.nupkg.sha512",
+        "microsoft.extensions.configuration.binder.nuspec",
+        "useSharedDesignerContext.txt"
       ]
     },
     "Microsoft.Extensions.DependencyInjection/7.0.0": {
@@ -8052,27 +8115,28 @@
       "Core.CrossCuttingConcerns >= 1.0.0",
       "Core.Persistence >= 1.0.0",
       "FluentValidation >= 11.8.1",
-      "MediatR >= 12.2.0"
+      "MediatR >= 12.2.0",
+      "Microsoft.Extensions.Configuration.Binder >= 7.0.4"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\zahid.m\\.nuget\\packages\\": {},
+    "C:\\Users\\EFSO\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\nArchitecture\\RentACarProjectDemo\\src\\corePackages\\Core.Packages\\Core.Application\\Core.Application.csproj",
+      "projectUniqueName": "C:\\Users\\EFSO\\Desktop\\Zahid\\Apps\\RenACar_CleanArch\\src\\corePackages\\Core.Packages\\Core.Application\\Core.Application.csproj",
       "projectName": "Core.Application",
-      "projectPath": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\nArchitecture\\RentACarProjectDemo\\src\\corePackages\\Core.Packages\\Core.Application\\Core.Application.csproj",
-      "packagesPath": "C:\\Users\\zahid.m\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\nArchitecture\\RentACarProjectDemo\\src\\corePackages\\Core.Packages\\Core.Application\\obj\\",
+      "projectPath": "C:\\Users\\EFSO\\Desktop\\Zahid\\Apps\\RenACar_CleanArch\\src\\corePackages\\Core.Packages\\Core.Application\\Core.Application.csproj",
+      "packagesPath": "C:\\Users\\EFSO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\EFSO\\Desktop\\Zahid\\Apps\\RenACar_CleanArch\\src\\corePackages\\Core.Packages\\Core.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\zahid.m\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\EFSO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -8081,17 +8145,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\nArchitecture\\RentACarProjectDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj": {
-              "projectPath": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\nArchitecture\\RentACarProjectDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj"
+            "C:\\Users\\EFSO\\Desktop\\Zahid\\Apps\\RenACar_CleanArch\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj": {
+              "projectPath": "C:\\Users\\EFSO\\Desktop\\Zahid\\Apps\\RenACar_CleanArch\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj"
             },
-            "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\nArchitecture\\RentACarProjectDemo\\src\\corePackages\\Core.Packages\\Core.Persistance\\Core.Persistence.csproj": {
-              "projectPath": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\nArchitecture\\RentACarProjectDemo\\src\\corePackages\\Core.Packages\\Core.Persistance\\Core.Persistence.csproj"
+            "C:\\Users\\EFSO\\Desktop\\Zahid\\Apps\\RenACar_CleanArch\\src\\corePackages\\Core.Packages\\Core.Persistance\\Core.Persistence.csproj": {
+              "projectPath": "C:\\Users\\EFSO\\Desktop\\Zahid\\Apps\\RenACar_CleanArch\\src\\corePackages\\Core.Packages\\Core.Persistance\\Core.Persistence.csproj"
             }
           }
         }
@@ -8113,6 +8178,10 @@
           "MediatR": {
             "target": "Package",
             "version": "[12.2.0, )"
+          },
+          "Microsoft.Extensions.Configuration.Binder": {
+            "target": "Package",
+            "version": "[7.0.4, )"
           }
         },
         "imports": [
@@ -8131,7 +8200,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
